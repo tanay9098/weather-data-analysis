@@ -4,7 +4,7 @@
 This project provides a comprehensive analysis of the weather pattern collected from a particular weather station. 
 
 ## 2.Data Source
-The data for this project was obtained from the ![linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7371233708634419200/) post of ![Mary Knoeferl](https://www.linkedin.com/in/mary-knoeferl/). 
+The data for this project was obtained from the [linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7371233708634419200/) post of [Mary Knoeferl](https://www.linkedin.com/in/mary-knoeferl/). 
 
 ## 3.Data Cleaning and Transformation
 The raw data underwent several crucial cleaning and transformation steps to ensure accuracy, consistency, and suitability for analysis. This included:
