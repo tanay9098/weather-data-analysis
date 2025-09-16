@@ -11,7 +11,7 @@ The raw data underwent several crucial cleaning and transformation steps to ensu
 
 **Handling outliers:** An additional column has been added by the name of *is_extremeWeather* to identify outliers having extreme temperature differences of >25.
 
-**Handling Negative Values:** Rows where precipitation denoted by *precipitation_in* is *negative* has been removed. Rows where wind speed denoted by *wspd_mph* is *negative* has been removed.
+**Handling Negative Values:** Rows where precipitation denoted by *precipitation_in* is *negative* has been corrected. Rows where wind speed denoted by *wspd_mph* is *negative* has been corrected.
 
 
 **Swapping values:** To enable proper analysis, values of maximum and minimum temperature denoted by *tmax_f* and *tmin_f* has been swapped wherever values were placed incorrectly.
