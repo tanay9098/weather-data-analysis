@@ -75,4 +75,3 @@ SELECT COUNT(tmax_f) AS extreme_heat  from daily_weather WHERE(tmax_f>90);
 SELECT COUNT(tmin_f) AS extreme_cold  from daily_weather WHERE(tmin_f<32);
 
 
-
