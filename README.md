@@ -16,6 +16,26 @@ The raw data underwent several crucial cleaning and transformation steps to ensu
 
 **Swapping values:** To enable proper analysis, values of maximum and minimum temperature denoted by *tmax_f* and *tmin_f* has been swapped wherever values were placed incorrectly.
 
+## 4. Visualization and Insights
+
+**Temperature Variation Over Time**
+
+![1](./images/image.png)
+
+**Distribution of Daily Precipitation**
+
+![2](./images/image1.png)
+
+**Temperature Vs Wind Speed**
+
+![3](./images/image2.png)
+
+**Extreme Heat Vs Cold Days**
+
+![4](./images/image3.png)
+
+
+
 
 
 
