@@ -22,7 +22,7 @@ The raw data underwent several crucial cleaning and transformation steps to ensu
 
 ![1](./images/image.png)
 
-This line chart tracks the daily maximum and minimum temperatures over the recorded time period.The blue line shows *tmax_f* (maximum temperature).The orange line shows *tmin_f* (minimum temperature).can observe fluctuations in temperature, indicating day-to-day weather variability. Large gaps between the two lines mean higher daily temperature swings, possibly due to dry air or desert-like conditions.Negative values (below 0°F) might represent data from very cold regions or winter months.
+This line chart tracks the daily maximum and minimum temperatures over the recorded time period.The blue line shows *tmax_f* (maximum temperature).The orange line shows *tmin_f* (minimum temperature).can observe fluctuations in temperature, indicating day-to-day weather variability. Large gaps between the two lines mean higher daily temperature swings, possibly due to dry air or desert-like conditions.Negative values (below 0°F) represents data from very cold regions or winter months.
 
 **Distribution of Daily Precipitation**
 
@@ -35,7 +35,7 @@ This histogram shows how often certain precipitation levels occurred. Each bar r
 ![3](./images/image2.png)
 
 A scatter plot comparing *wspd_mph* (wind speed) with *tmax_f* (maximum temperature).
-Each dot represents one day’s record. The dots are scattered randomly, showing little to no clear correlation between higher temperatures and stronger winds. This suggests wind speed was independent of temperature in your dataset, possibly influenced more by atmospheric pressure than temperature.
+Each dot represents one day’s record. The dots are scattered randomly which shows that there is little to no clear correlation between higher temperatures and stronger winds. This suggests wind speed was independent of temperature possibly influenced more by atmospheric pressure than temperature.
 
 **Extreme Heat Vs Cold Days**
 
